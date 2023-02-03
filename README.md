@@ -91,7 +91,6 @@ The `token` is valid for 1 hour. `Refresh token` is valid for 7 days.
 With each private request, the `token` will be sent fronted to 
 the headers in the authorization field.
 
-More about jwt authentication https://blog.logrocket.com/jwt-authentication-in-rust/
 
 #### If everything is correct:
 ```rust
